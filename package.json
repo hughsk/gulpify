@@ -1,0 +1,35 @@
+{
+  "name": "gulpify",
+  "description": "A browserify plugin for gulp",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {
+    "through": "~2.3.4",
+    "gulp-util": "~2.2.5",
+    "browserify": "~3.18.0"
+  },
+  "devDependencies": {
+    "concat-stream": "~1.4.0",
+    "tape": "~2.3.2"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gulpify"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/gulpify/issues"
+  },
+  "homepage": "https://github.com/hughsk/gulpify",
+  "keywords": [
+    "gulp",
+    "plugin",
+    "gulpplugin",
+    "browserify"
+  ]
+}
