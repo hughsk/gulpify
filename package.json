@@ -1,7 +1,7 @@
 {
   "name": "gulpify",
   "description": "A browserify plugin for gulp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {
