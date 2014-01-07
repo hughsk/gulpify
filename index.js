@@ -1,6 +1,6 @@
 var browserify = require('browserify')
-var File = require('gulp-util').File
 var through = require('through')
+var File = require('vinyl')
 var path = require('path')
 
 var slice = Array.prototype.slice

@@ -6,8 +6,8 @@
   "browser": "index.js",
   "dependencies": {
     "through": "~2.3.4",
-    "gulp-util": "~2.2.5",
-    "browserify": "~3.18.0"
+    "browserify": "3.x.x",
+    "vinyl": "~0.2.1"
   },
   "devDependencies": {
     "concat-stream": "~1.4.0",
