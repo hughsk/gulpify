@@ -1,4 +1,9 @@
-# gulpify [![Flattr this!](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=hughskennedy&url=http://github.com/hughsk/gulpify&title=gulpify&description=hughsk/gulpify%20on%20GitHub&language=en_GB&tags=flattr,github,javascript&category=software)[![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges) #
+# gulpify [![Flattr this!](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=hughskennedy&url=http://github.com/hughsk/gulpify&title=gulpify&description=hughsk/gulpify%20on%20GitHub&language=en_GB&tags=flattr,github,javascript&category=software)[![deprecated](http://hughsk.github.io/stability-badges/dist/deprecated.svg)](http://github.com/hughsk/stability-badges) #
+
+> **This module is deprecated in favor of
+[vinyl-source-stream](http://github.com/hughsk/vinyl-source-stream). If you'd
+like to use a plugin, you can still use
+[gulp-browserify](http://github.com/deepak1556/gulp-browserify).**
 
 A simple but flexible [browserify](http://browserify.org/) plugin for
 [Gulp v3](http://github.com/gulpjs/gulp). Mostly just to see how gulp
